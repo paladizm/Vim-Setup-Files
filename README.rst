@@ -6,7 +6,7 @@ These are my personal setup files for my vim setup. Currently they are pretty ba
 Prerequisites
 =============
 
-Vim Installation with python madule installed (This is pretty standard on linux) 
+Vim Installation with python module installed (This is pretty standard on linux) 
 
 To check just run, 
 
