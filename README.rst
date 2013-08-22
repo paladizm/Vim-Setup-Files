@@ -20,7 +20,7 @@ Also install jade (Makes the python autocomplete work)
 
 .. code-block:: vim
 
-    $ pip install jade
+    $ pip install jedi
 
 That should be all that you need as of right now. If you have any issues check out this `blog <http://redkrieg.com/2012/12/11/writing-python-like-a-jedi/>`_.
 
