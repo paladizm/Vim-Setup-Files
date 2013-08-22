@@ -16,7 +16,7 @@ To check just run,
 
     look for the +python in the stdout
 
-Also install jade (Makes the python autocomplete work)
+Also install jedi (Makes the python autocomplete work)
 
 .. code-block:: vim
 
